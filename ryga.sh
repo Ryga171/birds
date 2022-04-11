@@ -1,2 +1,2 @@
 echo 'Ryga'
-echo 'New one'
+echo 'New one1'
